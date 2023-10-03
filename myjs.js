@@ -1,4 +1,4 @@
-alert('Hello,Osamu!');
+alert('Hello,Kosuke!');
 
 alert(1 + 1);
 alert(Math.sqrt(1 + 1));
