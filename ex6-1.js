@@ -1,2 +1,2 @@
-function sayhello61()[{
+function sayhello61(){
   alert('Hellp,Function!');}
