@@ -1,3 +1,10 @@
-var who67='world';
-function sayhello67(){alert('hello,'+who67+'!');}
-function someone(x) {who67=x;}
+  function sayhello67() {
+      alert('Hello, ' + document.getElementById('who68').innerHTML + '!');
+    }
+
+    function someone(name) {
+      document.getElementById('who68').innerHTML = name;
+      alert(name + 'が来た');
+    }
+
+   
