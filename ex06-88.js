@@ -4,7 +4,7 @@ function gazo688() {
     img.src = 'uresinoryuu./image/bulbon.png'; // 画像のパスを修正
     img.alt = 'オン';
   } else {
-    img.src = 'じょさい./image/bulboff.png'; // 画像のパスを修正
+    img.src = 'Josai./image/bulboff.png'; // 画像のパスを修正
     img.alt = 'オフ';
   }
 }
