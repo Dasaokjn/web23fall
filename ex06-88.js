@@ -5,7 +5,7 @@
         img.src = 'uresioryuu./image/bulbon.gif';
         img.alt = 'オン';
       } else {
-        img.src = './image/bulboff.gif';
+        img.src = 'じょさい./image/bulboff.gif';
         img.alt = 'オフ';
       }
     }
