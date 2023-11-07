@@ -1,1 +1,4 @@
-function imgchange1(){document.getElementById('logo').src='./image/bulbon.png';}
+ function imgchange1() {
+            var image = document.getElementById("logo");
+            image.src = './image/Josai.png';
+        }
