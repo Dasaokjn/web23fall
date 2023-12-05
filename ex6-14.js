@@ -1,5 +1,5 @@
 function henkou1() {
-            document.getElementById("gh").src = './image/変更後の画像.jpg';
+            document.getElementById("gh").src = './image/ダウンロード.png';
         }
 
         function henkou2() {
