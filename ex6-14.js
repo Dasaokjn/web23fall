@@ -1,6 +1,7 @@
-function henkou1() {
-            document.getElementById("gh").src = './image/ダウンロード.png';
-        }
+function change1() {
+    document.getElementById('ダウンロード').src = './image/ダウンロード.jpg';
+}
+function change2() {
+    document.getElementById('uresinoryuu').src = './image/uresinoryuu.png';
+}
 
-        function henkou2() {
-            document.getElementById("gh").src = './image/uresinoryuu.png'; // 画像のパスを変更
