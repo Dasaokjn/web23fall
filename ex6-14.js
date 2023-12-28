@@ -1,5 +1,5 @@
 function change1() {
-    document.getElementById('ダウンロード').src = './image/ダウンロード.png';
+    document.getElementById('ペッパー').src = './image/ペッパー.jpg';
 }
 function change2() {
     document.getElementById('uresinoryuu').src = './image/uresinoryuu.png';
