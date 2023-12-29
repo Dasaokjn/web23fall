@@ -1,10 +1,10 @@
 function imgchange3(){
- document.getElementById('logo').src =
+ document.getElementById('zaku').src =
   './image/じょさい.png';
 }
 
 function imgchange4(){
- document.getElementById('logo').src =
+ document.getElementById('zaku').src =
   './image/uresinoryuu.png';
 }
 
