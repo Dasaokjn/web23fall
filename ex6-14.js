@@ -6,7 +6,7 @@
 
         function change1() {
             // 画像を変更する
-            document.getElementById('1').src = './image/ペッパー.jpg';
+            document.getElementById('1').src = './image/japan.png';
             
             // さらに3秒後にchange2関数を呼び出す
             setTimeout(change2, 3000);
