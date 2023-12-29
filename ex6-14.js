@@ -8,7 +8,6 @@
     }
 
     function change2() {
-      // 画像を再び変更する
       document.getElementById('1').src = './image/CHATGPT.png';
     }
 
