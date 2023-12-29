@@ -1,10 +1,10 @@
 function imgchange3(){
-  document.getElementById('logo').src =
-    './image/uresinoryuu.png';
+ document.getElementById('logo').src =
+  './image/じょさい.png';
 }
 
 function imgchange4(){
-  document.getElementById('logo').src =
-    './image/じょさい.png';
+ document.getElementById('logo').src =
+  './image/uresinoryuu.png';
 }
 
